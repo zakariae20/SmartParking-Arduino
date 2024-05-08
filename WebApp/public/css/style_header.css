@@ -1,0 +1,10 @@
+.logo{
+    border: solid 2px red;
+    border-radius: 20%;
+    height: 50px;
+    text-align: center;
+}
+
+.log{
+    margin: 10px;
+}
